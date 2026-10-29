@@ -6,9 +6,9 @@
 
 📍 Surat, Gujarat, India — Remote-first, working with clients worldwide
 
-[![Website](https://img.shields.io/badge/Website-fallrise.in-121212?style=flat-square)](https://www.fallrise.in)
+[![Website](https://img.shields.io/badge/Website-fallriseinfotech.com-121212?style=flat-square)](https://www.fallriseinfotech.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@fall__rise__info-1DA1F2?style=flat-square&logo=x)](https://twitter.com/fall_rise_info)
-[![Book a Call](https://img.shields.io/badge/Book-Free%2030--Min%20Call-000000?style=flat-square)](https://www.fallrise.in/contact)
+[![Book a Call](https://img.shields.io/badge/Book-Free%2030--Min%20Call-000000?style=flat-square)](https://www.fallriseinfotech.com/contact)
 
 </div>
 
@@ -29,20 +29,20 @@ We're a software development agency with **5+ years of experience** building web
 - 🤝 **SaaS Founders Tech Partner** — ongoing architecture, stack decisions, and growth strategy support
 - 🧠 **AI Development Services** — adding AI to existing products, cutting LLM costs, building internal AI tools
 
-[View all services →](https://www.fallrise.in/services)
+[View all services →](https://www.fallriseinfotech.com/services)
 
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| [**Bilexor**](https://www.fallrise.in/products/bilexor) | Invoice & trade document management for importers & exporters — proforma invoices, packing lists, ledgers, and multi-currency stock tracking |
-| [**Penso Notes**](https://www.fallrise.in/projects/penso-notes) | Flutter diary/journaling app for Android & iOS |
-| [**Bhaada**](https://www.fallrise.in/projects/bhaada) | Cargo logistics platform connecting shippers and carriers |
-| [**RentEra**](https://www.fallrise.in/projects/rentera) | Property management platform for the Canadian market |
-| [**Aastha Homeopathy Clinic**](https://www.fallrise.in/projects/aastha-homeopathy) | Clinic management & patient platform |
-| [**Zari Windows**](https://www.fallrise.in/projects/zari-windows) | Custom business platform |
+| [**Bilexor**](https://www.fallriseinfotech.com/products/bilexor) | Invoice & trade document management for importers & exporters — proforma invoices, packing lists, ledgers, and multi-currency stock tracking |
+| [**Penso Notes**](https://www.fallriseinfotech.com/projects/penso-notes) | Flutter diary/journaling app for Android & iOS |
+| [**Bhaada**](https://www.fallriseinfotech.com/projects/bhaada) | Cargo logistics platform connecting shippers and carriers |
+| [**RentEra**](https://www.fallriseinfotech.com/projects/rentera) | Property management platform for the Canadian market |
+| [**Aastha Homeopathy Clinic**](https://www.fallriseinfotech.com/projects/aastha-homeopathy) | Clinic management & patient platform |
+| [**Zari Windows**](https://www.fallriseinfotech.com/projects/zari-windows) | Custom business platform |
 
-[View all projects →](https://www.fallrise.in/projects) · [View all products →](https://www.fallrise.in/products)
+[View all projects →](https://www.fallriseinfotech.com/projects) · [View all products →](https://www.fallriseinfotech.com/products)
 
 ## Tech Stack
 
@@ -61,11 +61,11 @@ We're a software development agency with **5+ years of experience** building web
 
 ## From the Blog
 
-- [Trial, Active, Past Due, Canceled: The Hidden State Machine Behind Every Subscription](https://www.fallrise.in/blog/hidden-state-machine-behind-every-subscription)
-- [Where Your Subscription Revenue Quietly Leaks (And Nobody Notices for Months)](https://www.fallrise.in/blog/where-your-subscription-revenue-quietly-leaks)
-- [Razorpay, Stripe, or Apple/Google IAP: Choosing the Right Payment Rail](https://www.fallrise.in/blog/razorpay-vs-stripe-vs-iap-choosing-the-right-payment-rail)
+- [Trial, Active, Past Due, Canceled: The Hidden State Machine Behind Every Subscription](https://www.fallriseinfotech.com/blog/hidden-state-machine-behind-every-subscription)
+- [Where Your Subscription Revenue Quietly Leaks (And Nobody Notices for Months)](https://www.fallriseinfotech.com/blog/where-your-subscription-revenue-quietly-leaks)
+- [Razorpay, Stripe, or Apple/Google IAP: Choosing the Right Payment Rail](https://www.fallriseinfotech.com/blog/razorpay-vs-stripe-vs-iap-choosing-the-right-payment-rail)
 
-[Read more on the blog →](https://www.fallrise.in/blog)
+[Read more on the blog →](https://www.fallriseinfotech.com/blog)
 
 ---
 
@@ -75,6 +75,6 @@ We're a software development agency with **5+ years of experience** building web
 
 We're open to new projects and partnerships — reach out to see how we can collaborate.
 
-[**Contact Us**](https://www.fallrise.in/contact) · [**Book a Free 30-Min Call**](https://www.fallrise.in/contact)
+[**Contact Us**](https://www.fallriseinfotech.com/contact) · [**Book a Free 30-Min Call**](https://www.fallriseinfotech.com/contact)
 
 </div>
